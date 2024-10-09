@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## SKILLS
 
 #### Programing Languages
-![languages](https://skillicons.dev/icons?i=ts,java,kotlin)
+![languages](https://skillicons.dev/icons?i=ts,java,kotlin,rust)
 
 <!-- #### Frontend Tech
 ![frontend](https://skillicons.dev/icons?i=html,css,js,vue) -->
