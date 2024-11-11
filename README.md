@@ -11,12 +11,15 @@ You can click the Preview link to take a look at your changes.
 #### Programing Languages
 ![languages](https://skillicons.dev/icons?i=ts,java,kotlin,rust)
 
-<!-- #### Frontend Tech
-![frontend](https://skillicons.dev/icons?i=html,css,js,vue) -->
+#### Frontend Tech
+![frontend](https://skillicons.dev/icons?i=html,css,ts,vue)
 
 <!-- #### Backend Tech
 ![backend](https://skillicons.dev/icons?i=nodejs,express,java,spring) -->
 
-#### Want to write a runtime for TypeScript(compile to java byte code)
+<!-- #### Other Tech
+![other](https://skillicons.dev/icons?i=) -->
 
-#### And learning Android Dev now _(:з」∠)_
+<!-- #### Want to write a runtime for TypeScript(compile to java byte code)
+
+#### And learning Android Dev now _(:з」∠)_ -->
