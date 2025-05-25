@@ -21,6 +21,6 @@ Ich bin Vergisst, ein Student, dessen Hauptfach Informatik ist.
 <!-- #### Backend Tech
 ![backend](https://skillicons.dev/icons?i=nodejs,express,java,spring) -->
 
-#### Devtools
-![devtools](https://skillicons.dev/icons?i=idea,webstorm,vscode)
+<!-- #### Devtools -->
+<!-- ![devtools](https://skillicons.dev/icons?i=idea,webstorm,vscode) -->
 
