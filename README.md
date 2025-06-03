@@ -15,10 +15,10 @@ Ich bin *Vergisst*, ein Student, dessen *Hauptfach Informatik* ist.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vergesst&langs_count=10&layout=compact&hide_border=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vergesst&langs_count=10&layout=compact&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vergesst&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&hide_border=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vergesst&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
 </div>
 
