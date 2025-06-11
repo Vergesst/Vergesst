@@ -26,11 +26,11 @@ Ich bin *Vergisst*, ein Student, dessen *Hauptfach Informatik* ist.
 
 #### Programing Languages
 
-![languages](https://skillicons.dev/icons?i=ts,kotlin,rust,elixir)
+![languages](https://skills-icons.vercel.app/api/icons?i=ts,fsharp,kotlin,elixir)
 
 #### Frontend Tech
 
-![frontend](https://skillicons.dev/icons?i=html,css,ts,vue)
+![frontend](https://skills-icons.vercel.app/api/icons?i=html,css,ts,vue)
 
 <!-- <div>
   <h3>
