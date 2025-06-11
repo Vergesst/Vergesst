@@ -3,11 +3,7 @@ Vergesst/Vergesst is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there 👋
-
-### I'm *Vergisst*, a student major in *~SSE~ CS* at SYSU
-
-Ich bin *Vergisst*, ein Student, dessen *Hauptfach Informatik* ist.
+# Hi, this is Vergisst 👋
 
 <!-- [![my github stats](https://github-readme-stats.vercel.app/api?username=vergesst&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&hide_border=false)](https://github.com/vergesst)
 
