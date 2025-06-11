@@ -26,7 +26,7 @@ Ich bin *Vergisst*, ein Student, dessen *Hauptfach Informatik* ist.
 
 #### Programing Languages
 
-![languages](https://skills-icons.vercel.app/api/icons?i=ts,fsharp,kotlin,elixir)
+![languages](https://skills-icons.vercel.app/api/icons?i=ts,fsharp,kotlin,rust)
 
 #### Frontend Tech
 
