@@ -21,30 +21,13 @@ You can click the Preview link to take a look at your changes.
 ## SKILLS
 
 #### Programing Languages
+<a href="https://github.com/syvixor/skills-icons">
+  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=ts,fsharp,kotlin,rust" />
+</a>
 
-![languages](https://skills-icons.vercel.app/api/icons?i=ts,fsharp,kotlin,rust)
 
 #### Frontend Tech
+<a href="https://github.com/syvixor/skills-icons">
+  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=html,css,ts,vue" />
+</a>
 
-![frontend](https://skills-icons.vercel.app/api/icons?i=html,css,ts,vue)
-
-<!-- <div>
-  <h3>
-    SKILLS
-  </h3>
-</div>
-
-  #### Programming language
-  <div href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://skillicons.dev/icons?i=ts,kotlin,rust,elixir" />
-  </div>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,ts,vue" />
-  </a> -->
-
-<!-- #### Backend Tech
-![backend](https://skillicons.dev/icons?i=nodejs,express,java,spring) -->
-
-<!-- #### Devtools -->
-<!-- ![devtools](https://skillicons.dev/icons?i=idea,webstorm,vscode) -->
