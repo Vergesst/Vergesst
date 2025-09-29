@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Programing Languages
 <a href="https://github.com/syvixor/skills-icons">
-  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=ts,fsharp,rust" />
+  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=ts,fsharp,rust,elixir" />
 </a>
 
 
